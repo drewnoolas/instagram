@@ -1,3 +1,5 @@
+NOTE: This API has been deprecated
+
 Instagram
 =========
 Polls Instagram for public posts, given a hashtag. The hashtag can be in either the caption or comments. Official documentation of [Instagram API hashtags](http://instagram.com/developer/endpoints/tags/).
